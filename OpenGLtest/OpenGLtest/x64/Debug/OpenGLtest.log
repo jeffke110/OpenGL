@@ -1,0 +1,2 @@
+﻿  Application.cpp
+C:\Users\User\source\repos\OpenGLtest\OpenGLtest\src\Application.cpp(1,10): fatal  error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
